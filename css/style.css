@@ -1,6 +1,24 @@
 nav ul a,
+
+h1 {
+  color: #4badcc;
+}
+
+.material-icons {
+  color: #f18ba3;
+}
+
 nav .brand-logo {
   color: #444;
+}
+
+#navbar {
+  background-color: #4badcc;
+}
+
+#logo {
+  height: 95%;
+  width: 11%;
 }
 
 p {
