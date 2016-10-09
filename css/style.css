@@ -7,8 +7,20 @@ h1 {
 *{
    font-family: 'Poiret One', cursive;
 }
-.logo{
-   font-th:
+
+.centered{
+   text-align: center;
+   margin-left:17.5%;
+}
+
+#tagline{
+   color: #4badcc;
+}
+
+.card{
+   width: 100%;
+   background-color: #D4D0D8;
+   color: #4badcc;
 }
 
 .material-icons {
