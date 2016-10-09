@@ -2,10 +2,17 @@ nav ul a,
 
 h1 {
   color: #4badcc;
+  font-weight: 20px;
+  font-family: 'Poiret One', cursive;
 }
 
-*{
-   font-family: 'Poiret One', cursive;
+p, h4{
+   font-family: 'Open Sans', cursive;
+}
+
+h5{
+   font-family: 'Open Sans', cursive;
+   font-weight: 18px;
 }
 
 .centered{
@@ -15,6 +22,8 @@ h1 {
 
 #tagline{
    color: #4badcc;
+   font-weight: 18px;
+   font-family: 'Poiret One', cursive;
 }
 
 .card{
