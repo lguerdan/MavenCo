@@ -1,5 +1,9 @@
 nav ul a,
 
+a.hover:hover{
+  text-decoration: underline;
+}
+
 h1 {
   color: #4badcc;
   font-weight: 20px;
@@ -90,6 +94,7 @@ p {
   font-size: inherit;
 }
 
-footer.page-footer {
-  margin: 0;
+footer {
+  margin-bottom: 8%;
+  background-color: transparent;
 }
